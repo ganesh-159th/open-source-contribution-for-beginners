@@ -29,6 +29,10 @@ button, input, optgroup, select, textarea {
 
 
 
+/* styles.css */
+.full-width {
+  width: 100%; /* Ensures the image fills its container horizontally */
+}
 
 
 
